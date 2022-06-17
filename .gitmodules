@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DiscreteFDR"]
+	path = DiscreteFDR
+	url = https://github.com/disohda/discretefdr
+	shallow = true
+	registered = true
+[submodule "FDX"]
+	path = FDX
+	url = https://github.com/disohda/fdx
+	shallow = true
+	registered = true
+[submodule "PoissonBinomial"]
+	path = PoissonBinomial
+	url = https://github.com/disohda/poissonbinomial
+	shallow = true
+	registered = true

@@ -1,0 +1,14 @@
+[
+  {
+    "package": "DiscreteFDR",
+    "oncran": true
+  },
+  {
+    "package": "FDX",
+    "oncran": true
+  },
+  {
+    "package": "PoissonBinomial",
+    "oncran": true
+  }
+]
