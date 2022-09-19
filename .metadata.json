@@ -1,9 +1,5 @@
 [
   {
-    "package": "DiscreteFDR",
-    "oncran": true
-  },
-  {
     "package": "FDX",
     "oncran": true
   },
