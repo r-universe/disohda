@@ -8,6 +8,3 @@
 [submodule "FDX"]
 	path = FDX
 	url = https://github.com/disohda/fdx
-[submodule "PoissonBinomial"]
-	path = PoissonBinomial
-	url = https://github.com/disohda/poissonbinomial
