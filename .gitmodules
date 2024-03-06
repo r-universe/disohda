@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DiscreteDatasets"]
+	path = DiscreteDatasets
+	url = https://github.com/disohda/discretedatasets
 [submodule "DiscreteFDR"]
 	path = DiscreteFDR
 	url = https://github.com/disohda/discretefdr
