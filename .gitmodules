@@ -8,6 +8,9 @@
 [submodule "DiscreteFDR"]
 	path = DiscreteFDR
 	url = https://github.com/disohda/discretefdr
+[submodule "DiscreteFWER"]
+	path = DiscreteFWER
+	url = https://github.com/disohda/discretefwer
 [submodule "DiscreteTests"]
 	path = DiscreteTests
 	url = https://github.com/disohda/discretetests
